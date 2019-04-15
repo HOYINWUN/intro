@@ -5,16 +5,20 @@ body {
 }
 
 #navbar {
-	background-image: url(ABT US logo.png);
 	background-position:center;
 	margin: 0px;
 	top: 0%;
 	height:4em;
-	color:#353535;
+	background-color:#353535;
+	z-index:1;
 }
-
+#logo{
+	background-image: url(logo.png);
+	background-position:center;
+	z-index:2;
+}
 #picture{
-	//background-image: url(ABT US logo.png);
+	//background-image: url(page.png);
 	background-position:center;	
 	height:40%;
 	width:60%;
