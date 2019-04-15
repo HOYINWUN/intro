@@ -1,14 +1,13 @@
 body {
-	overflow-x:hidden
-	overflow-y:auto
-	background-color:white
+	overflow-x:hidden;
+	overflow-y:auto;
+	background-color:white;
 }
 
 #navbar {
-	background-image: url(.jpg)
-	background-position:center
-	cover;
+	background-image: url(ABT US logo.png);
+	background-position:center;
 	top: 0%;
-	height:5em
-	color:#353535
+	height:5em;
+	color:#353535;
 }
