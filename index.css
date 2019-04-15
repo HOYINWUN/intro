@@ -1,0 +1,14 @@
+body {
+	overflow-x:hidden
+	overflow-y:auto
+	background-color:white
+}
+
+#navbar {
+	background-image: url(.jpg)
+	background-position:center
+	cover;
+	top: 0%;
+	height:5em
+	color:#353535
+}
