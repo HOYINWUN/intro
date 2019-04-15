@@ -11,16 +11,35 @@ body {
 	top: 0%;
 	height:7em;
 	background-color:#353535;
-	//z-index:1;
 }
 #logo{
     height: 4em;
     position: absolute;
     top: 0;
-    left: 35%;
+    left: 30%;
 }
 
-#picture{
+#main{
 	height:40%;
 	margin:5%;
+}
+
+#AU{
+	color:#f15a24;
+	font-size:3em;
+	font-family: 'Lato', sans-serif;
+	margin-inline-start: 1em;
+    margin-inline-end: 1em;
+	
+}
+
+div.gallery {
+  margin: 2.5em;
+  border: 1px solid #ccc;
+  float: left;
+  width: 15%;
+}
+
+#sef_pic {
+	width:120%
 }
